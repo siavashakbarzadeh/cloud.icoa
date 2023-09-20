@@ -28,7 +28,7 @@ a, button {
 }
 
 .ct-topbar-layout1 {
-    background-color: #000;
+    background-color: #000e39;
     padding: 1px 0;
     font-size: 14px;
     color: #c2cdeb;
@@ -44,7 +44,7 @@ a, button {
 }
 
 .ct-topbar-layout1 .ct-topbar-meta i {
-    color: #fff;
+    color: #007cfb;
     margin-right: 4px;
 }
 .ct-topbar-layout1 label {
