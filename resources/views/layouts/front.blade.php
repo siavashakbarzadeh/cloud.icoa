@@ -129,7 +129,7 @@
            <div class="container">
               <div class="row">
                  <div class="ct-topbar-meta">
-                    <div class="ct-topbar-item"> <i class="fas fa-phone-square-alt"></i> <label>{{clean( trans('niva-backend.call_help') , array('Attr.EnableID' => true))}}</label> <a href="tel:@php echo $setting->phone; @endphp">@php echo $setting->phone; @endphp</a></div>
+                    <div class="ct-topbar-item"> <i class="fas fa-phone-square-alt"></i> <label>{{clean( trans('niva-backend.call_help') , array('Attr.EnableID' => true))}}</label> <a href="tel:@php echo $setting->phone; @endphp">@php echo $setting->phone; @endphp hi</a></div>
                     <div class="ct-topbar-item"> <i class="fas fa-envelope-open"></i> <label>{{clean( trans('niva-backend.mail_us') , array('Attr.EnableID' => true))}}</label> <a href="mailto:@php echo $setting->contact; @endphp">@php echo $setting->contact; @endphp</a></div>
                     <div class="ct-topbar-item"> <i class="fas fa-map-marker-alt"></i> <label>{{clean( trans('niva-backend.our_address') , array('Attr.EnableID' => true))}}</label> <span>@php echo $setting->address; @endphp</span></div>
                  </div>
