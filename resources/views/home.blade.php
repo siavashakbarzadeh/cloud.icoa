@@ -192,6 +192,7 @@
 
     <h3>Partner
     </h3>
+   
     <div class="testimonial-section">
 
         <div class="testimonial-section-slider owl-carousel">
