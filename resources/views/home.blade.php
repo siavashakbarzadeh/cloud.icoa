@@ -129,9 +129,10 @@
 
 
     <div class="services-section">
+        <h3>{{$homesetting->services_title}}</h3>
         <div class="container">
 
-                <h3>{{$homesetting->services_title}}</h3>
+
 
                 <div class="service-boxes-slider owl-carousel ">
 
