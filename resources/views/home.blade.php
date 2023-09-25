@@ -127,7 +127,7 @@
         </div>
     </div>
 
-    <h3>{{$homesetting->services_title}}</h3>
+
     <div class="services-section">
 
         <div class="container">
@@ -190,9 +190,9 @@
         </div>
     </div>
 
-
+    <h3>{{$homesetting->services_title}}</h3>
     <div class="testimonial-section">
-        <h3>{{$homesetting->services_title}}</h3>
+       
         <div class="testimonial-section-slider owl-carousel">
 
             @foreach($testimonials as $testimonial)
