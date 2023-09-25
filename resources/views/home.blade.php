@@ -127,9 +127,9 @@
         </div>
     </div>
 
-
+    <h3>{{$homesetting->services_title}}</h3>
     <div class="services-section">
-        <h3>{{$homesetting->services_title}}</h3>
+
         <div class="container">
 
 
