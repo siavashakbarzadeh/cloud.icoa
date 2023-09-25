@@ -193,7 +193,7 @@
     <div class="testimonial-section">
 
         <div class="testimonial-section-slider owl-carousel">
-
+            <h3>{{$homesetting->services_title}}</h3>
             @foreach($testimonials as $testimonial)
             <blockquote class="testimonial-slide">
                 <div class="section_title">{{$testimonial->subtitle}}</div>
