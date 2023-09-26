@@ -1185,7 +1185,7 @@ span.timer {
 }
 .testimonial-section:after {
     content: "";
-    background: rgb(229, 229, 229);
+    background: linear-gradient(270deg,#000 0,transparent);
     position: absolute;
     right: 0;
     top: 0;
