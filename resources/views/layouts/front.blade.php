@@ -234,7 +234,7 @@
                         <div class="address-social-links">
                             <h5 class="widget-title">{{$headerfooter->sidebar_title}}</h5>
                             <div class="contact-details">
-                                {!! $headerfooter->sidebar_description !!}
+                                <!-- {!! $headerfooter->sidebar_description !!} -->
                             </div>
                         </div>
                     </aside>
