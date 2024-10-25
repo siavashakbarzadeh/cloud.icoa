@@ -192,27 +192,27 @@
 
     <h3>Partner
     </h3>
-   
-    <div class="testimonial-section">
 
-        <div class="testimonial-section-slider owl-carousel">
+{{--    <div class="testimonial-section">--}}
 
-            @foreach($testimonials as $testimonial)
-            <blockquote class="testimonial-slide">
-                <div class="section_title">{{$testimonial->subtitle}}</div>
-                <span class="testimonial_slider_title">{{$testimonial->title}}</span>
-                    <div class="testimonial-area">
-                        <div class="testimonial-layoutArea">
-                           <p>{{$testimonial->description}}</p>
-                        </div>
-                    </div>
-                <div class="testimonials_slider_name"> {{$testimonial->name}}<span> - {{$testimonial->position}}</span></div>
-            </blockquote>
-            @endforeach
+{{--        <div class="testimonial-section-slider owl-carousel">--}}
 
-        </div>
+{{--            @foreach($testimonials as $testimonial)--}}
+{{--            <blockquote class="testimonial-slide">--}}
+{{--                <div class="section_title">{{$testimonial->subtitle}}</div>--}}
+{{--                <span class="testimonial_slider_title">{{$testimonial->title}}</span>--}}
+{{--                    <div class="testimonial-area">--}}
+{{--                        <div class="testimonial-layoutArea">--}}
+{{--                           <p>{{$testimonial->description}}</p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                <div class="testimonials_slider_name"> {{$testimonial->name}}<span> - {{$testimonial->position}}</span></div>--}}
+{{--            </blockquote>--}}
+{{--            @endforeach--}}
 
-    </div>
+{{--        </div>--}}
+
+{{--    </div>--}}
 
     <div class="blog-section">
 
